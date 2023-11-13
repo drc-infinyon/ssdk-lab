@@ -1,7 +1,0 @@
-{"name":"John","age":16}
-{"name":"Bob","age":21}
-{"name":"Rick","age":32}
-{"name":"AJ","age":43}
-{"name":"Deb","age":37}
-{"name":"TJ","age":27}
-{"name":"Lucas","age":17}
